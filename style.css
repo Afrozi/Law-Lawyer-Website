@@ -61,7 +61,7 @@ li a:hover{
     color: black;
 }
 .navbar{
-    background: rgba(0,0,0,0.7) url("/image//developer.jpg");
+    background: rgba(0,0,0,0.7) url("image/developer.jpg");
     background-size: cover;
     background-blend-mode:darken;
     display: flex;
@@ -72,7 +72,7 @@ li a:hover{
 }
 
 #home-con{
-    background: rgba(0,0,0,0.7) url("/image//developer.jpg");
+    background: rgba(0,0,0,0.7) url("image/developer.jpg");
     background-position: center; 
     background-repeat: no-repeat; 
     background-size: cover; 
