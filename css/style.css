@@ -81,7 +81,7 @@ li a:hover{
     background-blend-mode:darken; 
     color: #fff; 
     display: flex; 
-    justify-content: end; 
+    justify-content: start; 
 }
 span{
     border-bottom: solid 2px;
